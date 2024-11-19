@@ -5,7 +5,7 @@
 
 
 <!-- Coding GIF -->  
-<img align="right" alt="Coding" width="300" src="https://img.freepik.com/free-vector/accept-tasks-concept-illustration_114360-4676.jpg?t=st=1732023455~exp=1732027055~hmac=1f206a3bcb60db11044862717c9a5d4b8d2b25207be3d35be142b127ade8c7ed&w=740">  
+<img align="right" alt="Coding" width="300" src="تصميم بدون عنوان.png">  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razan-eldaif&label=Profile%20views&color=0e75b6&style=flat" alt="razan-eldaif" /> </p>  
 
